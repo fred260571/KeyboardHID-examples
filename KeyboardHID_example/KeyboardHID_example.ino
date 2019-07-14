@@ -20,6 +20,9 @@
   This example code is in the public domain.
 
   http://www.arduino.cc/en/Tutorial/KeyboardMessage
+
+  KeyboardHID can be downloaded at
+  https://github.com/fred260571/KeyboardHID
 */
 
 #include <KeyboardHID.h>
