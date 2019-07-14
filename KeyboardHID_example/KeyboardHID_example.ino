@@ -15,7 +15,7 @@
   modified 11 Nov 2013
   by Scott Fitzgerald
   modified 14 July 2019
-  by Frederic Philippe Pouchal
+  by Frederic Pouchal
 
   This example code is in the public domain.
 
