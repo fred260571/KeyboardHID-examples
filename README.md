@@ -8,7 +8,7 @@ implemented functions
     
     KeyboardHID.release(key);
     
-    Keyboard.releaseAll()
+    Keyboard.releaseAll();
     
     KeyboardHID.write(character);
     
