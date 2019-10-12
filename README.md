@@ -1,6 +1,18 @@
 # KeyboardHID-examples
 for the KeyboardHID Library
 https://github.com/fred260571/KeyboardHID
+
+implemented functions
+
+    KeyboardHID.press(key);
+    
+    KeyboardHID.release(key);
+    
+    KeyboardHID.write(character);
+    
+not implemented : KeyboardHID.print("Hello!");
+    
+
 The definitions of the modifier keys are listed below:
 
 Key                             Hexadecimal value
