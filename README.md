@@ -8,6 +8,8 @@ implemented functions
     
     KeyboardHID.release(key);
     
+    Keyboard.releaseAll()
+    
     KeyboardHID.write(character);
     
 not implemented : KeyboardHID.print("Hello!");
