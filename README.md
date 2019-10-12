@@ -2,14 +2,23 @@
 for the KeyboardHID Library
 https://github.com/fred260571/KeyboardHID
 The definitions of the modifier keys are listed below:
+
 Key 	Hexadecimal value
+
 KEY_LEFT_CTRL   0xE0
+
 KEY_LEFT_SHIFT    0xE1
+
 KEY_LEFT_ALT    0xE2
+
 KEY_LEFT_GUI    0xE3
+
 KEY_RIGHT_CTRL    0xE4
+
 KEY_RIGHT_SHIFT   0xE5
+
 KEY_RIGHT_ALT   0xE6
+
 KEY_RIGHT_GUI   0xE7
 
 KEY_UP_ARROW    0x52
